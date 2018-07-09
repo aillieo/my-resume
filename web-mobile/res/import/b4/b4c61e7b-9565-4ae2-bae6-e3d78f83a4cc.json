@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cocos",
+    "texture": "f0BOZDES1BmLdLvbgpdHUC",
+    "rect": [
+      28,
+      13,
+      561,
+      240
+    ],
+    "offset": [
+      8.5,
+      -6.5
+    ],
+    "originalSize": [
+      600,
+      253
+    ]
+  }
+}
